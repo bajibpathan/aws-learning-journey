@@ -119,7 +119,7 @@ Every service folder includes:
 
 ---
 
-# 📅 Learning Progress
+# 📅 Learning Tracker
 
 | Module | Status |
 |---------|:------:|
