@@ -124,9 +124,9 @@ Every service folder includes:
 | Module | Status |
 |---------|:------:|
 | Cloud Fundamentals | ✅ |
-| IAM | 🚧 |
+| IAM | ✅ |
+| S3 | 🚧 |
 | EC2 | ⬜ |
-| S3 | ⬜ |
 | VPC | ⬜ |
 | RDS | ⬜ |
 | Lambda | ⬜ |
