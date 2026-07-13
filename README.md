@@ -67,7 +67,6 @@ aws-learning-journey/
 ├── 07-serverless-lambda/
 ├── 08-monitoring-cloudwatch/
 ├── 09-infrastructure-as-code/
-├── architecture-diagrams/
 ├── interview-notes/
 ├── cheatsheets/
 ├── projects/
