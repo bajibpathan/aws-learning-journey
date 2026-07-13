@@ -63,7 +63,7 @@ Before configuring replication:
 
 # 🏗 How Replication Works
 <p align="center">
-  <img src="../images/replication-flow.png" alt="AWS S3 Replkication Flow" width="900" />
+  <img src="../images/replication-flow.png" alt="AWS S3 Replication Flow" width="900" />
 </p>
 
 

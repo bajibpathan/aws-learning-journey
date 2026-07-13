@@ -42,6 +42,9 @@ After completing this section you should understand:
 | Storage Classes | Choosing the right storage class |
 | Versioning | Protect against accidental deletion |
 | Replication | SRR, CRR and Cross-Account Replication |
+| Performance | Performance optimization techniques |
+| LifeCycle Management | Automated storage lifecycle management |
+
 
 ---
 
@@ -51,7 +54,8 @@ After completing this section you should understand:
 |------|--------|
 | Create an S3 Bucket | ✅ |
 | S3 Versioning | ✅ |
-| S3 Replication | 🚧 |
+| S3 Replication | ✅ |
+| S3 LifeCycle Management | ✅ |
 
 ---
 
