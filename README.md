@@ -60,9 +60,9 @@ aws-learning-journey/
 
 ├── 01-cloud-fundamentals/
 ├── 02-identity-and-access-management/
-├── 03-compute-ec2/
-├── 04-storage-s3/
-├── 05-networking-vpc/
+├── 03-storage-s3/
+├── 04-networking-vpc/
+├── 05-compute-ec2/
 ├── 06-databases-rds/
 ├── 07-serverless-lambda/
 ├── 08-monitoring-cloudwatch/
@@ -124,9 +124,9 @@ Every service folder includes:
 |---------|:------:|
 | Cloud Fundamentals | ✅ |
 | IAM | ✅ |
-| S3 | 🚧 |
+| S3 | ✅ |
+| VPC | 🚧 |
 | EC2 | ⬜ |
-| VPC | ⬜ |
 | RDS | ⬜ |
 | Lambda | ⬜ |
 | CloudWatch | ⬜ |
@@ -142,9 +142,9 @@ Every service folder includes:
 |----------|--------|
 | ☁️ Cloud Fundamentals | Cloud Computing, Service Models, Deployment Models, AWS Global Infrastructure |
 | 🔐 Identity & Security | IAM, Policies, Roles, Identity Center, Cognito |
-| 💻 Compute | EC2, Auto Scaling, Elastic Load Balancer |
 | 🗄️ Storage | Amazon S3, EBS, EFS |
 | 🌐 Networking | VPC, Route Tables, NAT Gateway, Internet Gateway, Security Groups, NACL |
+| 💻 Compute | EC2, Auto Scaling, Elastic Load Balancer |
 | 📊 Monitoring | CloudWatch, CloudTrail, AWS Config |
 | 🚀 Infrastructure as Code | Terraform, GitHub Actions, CI/CD |
 
