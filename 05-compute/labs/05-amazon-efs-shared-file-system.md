@@ -1,4 +1,4 @@
-# 🧪 Lab 01: Build a Shared File System with Amazon EFS
+# 🧪 Lab 05: Build a Shared File System with Amazon EFS
 
 > Build a Regional Amazon EFS filesystem, connect two Linux EC2 instances from different Availability Zones, and verify that both servers can access and modify the same files.
 
