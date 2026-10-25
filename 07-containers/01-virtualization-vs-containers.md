@@ -364,4 +364,3 @@ Virtual machines provide isolation by running separate guest operating systems, 
 - Microservices Architecture
 - Cloud-Native Applications
 
-**Next topic:** Docker Fundamentals

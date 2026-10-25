@@ -841,4 +841,3 @@ A command-line tool that simplifies building, releasing, and operating container
 - ECS Anywhere
 - AWS Copilot
 
-**Next topic:** Deploying a Multi-Tier Application with Amazon ECS

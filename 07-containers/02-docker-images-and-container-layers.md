@@ -590,4 +590,3 @@ Docker Image
 - Container Image Repositories
 - Amazon Elastic Container Service (ECS)
 
-**Next topic:** Amazon Elastic Container Service (ECS)
